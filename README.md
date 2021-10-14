@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/137403838-b5ca9e1e-663c-4a12-9a7c-78bb60fb6c12.png">
   <br />
   Apache Lucene Solr Guide
 </h1>
@@ -8,10 +8,10 @@
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/137403843-30123fe5-983b-42bc-900c-c6727bdd953e.png">
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/137403853-c2f17081-e6cc-47be-8f7e-4fc42c440591.png">
  <br />
 </p>
 
